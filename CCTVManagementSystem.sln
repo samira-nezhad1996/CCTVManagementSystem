@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCTVManagementSystem.API", "CCTVManagementSystem.API\CCTVManagementSystem.API.csproj", "{D3B1EF79-4D7A-49F6-99AA-F705F8721BD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCTVManagementSystem.Domain", "CCTVManagementSystem.Domain\CCTVManagementSystem.Domain.csproj", "{9BBA5C0A-1631-43BF-8E46-A33F01846D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCTVManagementSystem.Application", "CCTVManagementSystem.Application\CCTVManagementSystem.Application.csproj", "{F96806F2-3716-4790-9258-9D07EE2C5EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCTVManagementSystem.Infrastructure", "CCTVManagementSystem.Infrastructure\CCTVManagementSystem.Infrastructure.csproj", "{E4F64E9E-4462-4686-83E9-96CF1F5351BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B1EF79-4D7A-49F6-99AA-F705F8721BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B1EF79-4D7A-49F6-99AA-F705F8721BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B1EF79-4D7A-49F6-99AA-F705F8721BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B1EF79-4D7A-49F6-99AA-F705F8721BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBA5C0A-1631-43BF-8E46-A33F01846D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBA5C0A-1631-43BF-8E46-A33F01846D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBA5C0A-1631-43BF-8E46-A33F01846D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBA5C0A-1631-43BF-8E46-A33F01846D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96806F2-3716-4790-9258-9D07EE2C5EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96806F2-3716-4790-9258-9D07EE2C5EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96806F2-3716-4790-9258-9D07EE2C5EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96806F2-3716-4790-9258-9D07EE2C5EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F64E9E-4462-4686-83E9-96CF1F5351BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F64E9E-4462-4686-83E9-96CF1F5351BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F64E9E-4462-4686-83E9-96CF1F5351BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F64E9E-4462-4686-83E9-96CF1F5351BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
