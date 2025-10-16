@@ -2,7 +2,7 @@
 
 namespace CCTVManagementSystem.Infrastructure.Entities;
 
-public class AppUser : IdentityUser
+public class UserEntity : IdentityUser
 {
     public string FullName { get; set; }
 }

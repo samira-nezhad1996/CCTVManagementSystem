@@ -4,9 +4,9 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace CCTVManagementSystem.Infrastructure.Data;
 
-public class AppDbContext :IdentityDbContext<AppUser, AppRole, string>
+public class SqlServerContext :IdentityDbContext<UserEntity, RoleEntity, string>
 {
-    public AppDbContext(DbContextOptions<AppDbContext> options)
+    public SqlServerContext(DbContextOptions<SqlServerContext> options)
         : base(options)
     {
         

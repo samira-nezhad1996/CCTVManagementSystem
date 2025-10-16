@@ -2,7 +2,7 @@
 
 namespace CCTVManagementSystem.Infrastructure.Entities;
 
-public class AppRole : IdentityRole
+public class RoleEntity : IdentityRole
 {
     
 }
