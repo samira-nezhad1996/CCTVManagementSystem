@@ -1,0 +1,13 @@
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\obj\Debug\net8.0\CCTVManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\obj\Debug\net8.0\CCTVManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\obj\Debug\net8.0\CCTVManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\obj\Debug\net8.0\CCTVManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\obj\Debug\net8.0\CCTVManagementSystem.Domain.sourcelink.json
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\bin\Debug\net8.0\CCTVManagementSystem.Domain.deps.json
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\bin\Debug\net8.0\CCTVManagementSystem.Domain.dll
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\bin\Debug\net8.0\CCTVManagementSystem.Domain.pdb
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\obj\Debug\net8.0\CCTVManagementSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\obj\Debug\net8.0\CCTVManagementSystem.Domain.dll
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\obj\Debug\net8.0\refint\CCTVManagementSystem.Domain.dll
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\obj\Debug\net8.0\CCTVManagementSystem.Domain.pdb
+C:\Users\Sattari\Desktop\CCTVManagementSystem\CCTVManagementSystem.Domain\obj\Debug\net8.0\ref\CCTVManagementSystem.Domain.dll

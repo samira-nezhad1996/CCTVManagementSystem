@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using CCTVManagementSystem.Infrastructure.Entities;
+using CCTVManagementSystem.Domain.Entities;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace CCTVManagementSystem.Infrastructure.Data;
