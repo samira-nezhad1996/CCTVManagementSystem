@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CCTVManagementSystem.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23ebd46946da1bd20078f5cfe15c7d0501d0e9aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d245dcd7a753ffc0f82ae02e229b1782a6b5e30")]
 [assembly: System.Reflection.AssemblyProductAttribute("CCTVManagementSystem.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CCTVManagementSystem.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
